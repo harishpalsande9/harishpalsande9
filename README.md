@@ -3,10 +3,10 @@
 ## Hi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
 <a href="https://www.linkedin.com/in/harish-palsande9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/intent/follow?screen_name=harish_palsande"><img src="https://img.shields.io/badge/harish_palsande-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="mailto:harishpalsande9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harishpalsande9/)
-<a href="https://dev.to/harishpalsande9"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<a href="https://twitter.com/intent/follow?screen_name=harish_palsande"><img src="https://img.shields.io/badge/harish_palsande-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://www.instagram.com/harish_palsande_09/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=harishpalsande9&style=flat-square)
 
 #### About Me ?
