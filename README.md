@@ -12,7 +12,7 @@
 #### About Me ?
 
 - 🏫 I'm a passionate Software Engineering from India.
-- ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, NextJS, development.
+- ⚡️ My expertise primarily revolves around JavaScript, React, React Native MERN, Web Development, NextJS, development.
 - ⚡️ Currently working as Software Engineer at Ahex Technology
 - ♥️ I love to learning new technology
 
@@ -24,8 +24,8 @@
 <img height=25 src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 
 
 #### **Frameworks, Platforms and Libraries**:
