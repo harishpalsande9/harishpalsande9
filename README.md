@@ -49,7 +49,8 @@
 #### **DevOps & Cloud Tools**:
 
 <img height=25 src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img height=25 src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img height=25 src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/microsoft%20azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white">&nbsp;&nbsp;
 
 
