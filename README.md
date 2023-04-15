@@ -14,7 +14,7 @@
 - 🏫 I'm a passionate Software Engineering from India.
 - 🌱 I am 21 year old.
 - ⚡️ My expertise primarily revolves around JavaScript, React, React Native MERN, Web Development, NextJS, development.
-- ⚡️ Currently working as Software Engineer at Ahex Technology
+- 🏢 Currently working as Software Engineer at Ahex Technology
 - ♥️ I love to learning new technology
 
 
