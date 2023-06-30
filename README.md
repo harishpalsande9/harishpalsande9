@@ -2,20 +2,20 @@
 
 ## Hi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
-<a href="https://www.linkedin.com/in/harish-palsande9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/harishpalsande/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:harishpalsande9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harishpalsande9/)
 <a href="https://twitter.com/intent/follow?screen_name=harish_palsande"><img src="https://img.shields.io/badge/harish_palsande-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/harish_palsande_09/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=harishpalsande9&style=flat-square)
 
-#### About Me ?
+#### About Me?
 
 - 🏫 I'm a passionate Software Engineer from India with 3 years of experience.
-- 🌱 I am 21 year old.
-- ⚡️ My expertise primarily revolves around MERN stack, React Native, Software Architecture development.
+- 🌱 I am 21 years old.
+- ⚡️ My expertise primarily revolves around MERN stack, React Native, and Software Architecture development.
 - 🏢 Currently working as Software Engineer at Ahex Technology
-- ♥️ I love to learning new technology
+- ♥️ I love to learn new technology
 
 
 ### 🔭 **Technology Stack**
