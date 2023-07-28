@@ -5,15 +5,14 @@
 <a href="https://www.linkedin.com/in/harishpalsande/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:harishpalsande9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harishpalsande9/)
-<a href="https://auth.geeksforgeeks.org/user/harishpalsande9/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=white&color=green"></a>
 <a href="https://www.instagram.com/harish_palsande_09/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=harishpalsande9&style=flat-square)
 
 #### About Me?
 
 - 🏫 I'm a passionate Software Engineer from India with 3 years of experience.
-- 🌱 I am 21 years old.
-- ⚡️ My expertise primarily revolves around MERN stack, React Native, and Software Architecture development.
+- 🌱 I am 22 years old.
+- ⚡️My expertise primarily revolves around JavaScript, React, React Native, MERN, Web Development, NextJS, Microservices, and System Architecture development.
 - 🏢 Currently working as Software Engineer at Ahex Technology
 - ♥️ I love to learn new technology
 
