@@ -6,8 +6,6 @@
 <a href="mailto:harishpalsande9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harishpalsande9/)
 <a href="https://www.instagram.com/harish_palsande_09/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=harishpalsande9&style=flat-square)
 
 #### About Me?
