@@ -13,7 +13,6 @@
 - 🏫 I'm a passionate Software Engineer from India with 4 years of experience.
 - 🌱 I am 24 years old.
 - ⚡️My expertise primarily revolves around JavaScript, Full stack Developer, MERN stack Developer, UI Developer, Front End Developer, Backed Developer, React Js Developer, Next Js Developer, Node Js Developer, NoSql / SQL, Mobile app Developer (IOS, Android), React Native developer, Microservices Architecture, System Architecture, AWS Architecture, DevOps engineer
-- 🏢 Currently working as Software Engineer at Eligarf Technologies.
 - ♥️ I love to learn new technology.
 
 
